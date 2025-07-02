@@ -10,6 +10,6 @@ This is my personal portfolio website to showcase my work, skills, and contact d
 - Skills
 - Contact
 
----
+---.
 
 Feel free to fork or use this template for your own personal site!
