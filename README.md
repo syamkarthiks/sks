@@ -11,3 +11,6 @@ This is my personal portfolio website to showcase my work, skills, and contact d
 - Contact
 
 ----
+## connect
+* [`Instagram`](https://instagram.com/sksb0t)
+* [`Telegram`](https://t.me/sksb0t)
