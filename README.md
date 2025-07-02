@@ -17,10 +17,10 @@ This is my personal portfolio website to showcase my work, skills, and contact d
 
 <h1 align="center"><b>Reach Me Out </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="55"></h1>
 
-  <a href="mailto:toxicdevil.abhinav@gmail.com?subject=[%20GITHUB%20]%20">
+  <a href="mailto: skswhatsappbot@gmail.com?subject=[%20hey%20]%20">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_toxic._devil_">
+  <a href="https://www.instagram.com/sksb0t">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
