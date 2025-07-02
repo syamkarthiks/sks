@@ -1,8 +1,8 @@
-# Syam Karthik - Portfolio
+# syamkarthiks - Portfolio
 
 This is my personal portfolio website to showcase my work, skills, and contact details.
 
-🌐 Live: [https://syamkarthik.github.io/syamkarthik-portfolio](https://syamkarthik.github.io/syamkarthik-portfolio)
+🌐 Live: [https://syamkarthik.github.io/sks](https://syam.fun)
 
 ## ✨ Sections
 - About Me
